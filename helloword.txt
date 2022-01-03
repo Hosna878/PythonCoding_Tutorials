@@ -1,0 +1,196 @@
+Hello Afghanistan
+    Hello Albania
+    Hello Algeria
+    Hello Andorra
+    Hello Angola
+    Hello Antigua & Deps
+    Hello Argentina
+    Hello Armenia
+    Hello Australia
+    Hello Austria
+    Hello Azerbaijan
+    Hello Bahamas
+    Hello Bahrain
+    Hello Bangladesh
+    Hello Barbados
+    Hello Belarus
+    Hello Belgium
+    Hello Belize
+    Hello Benin
+    Hello Bhutan
+    Hello Bolivia
+    Hello Bosnia Herzegovina
+    Hello Botswana
+    Hello Brazil
+    Hello Brunei
+    Hello Bulgaria
+    Hello Burkina
+    Hello Burundi
+    Hello Cambodia
+    Hello Cameroon
+    Hello Canada
+    Hello Cape Verde
+    Hello Central African Rep
+    Hello Chad
+    Hello Chile
+    Hello China
+    Hello Colombia
+    Hello Comoros
+    Hello Congo
+    Hello Congo {Democratic Rep}
+    Hello Costa Rica
+    Hello Croatia
+    Hello Cuba
+    Hello Cyprus
+    Hello Czech Republic
+    Hello Denmark
+    Hello Djibouti
+    Hello Dominica
+    Hello Dominican Republic
+    Hello East Timor
+    Hello Ecuador
+    Hello Egypt
+    Hello El Salvador
+    Hello Equatorial Guinea
+    Hello Eritrea
+    Hello Estonia
+    Hello Ethiopia
+    Hello Fiji
+    Hello Finland
+    Hello France
+    Hello Gabon
+    Hello Gambia
+    Hello Georgia
+    Hello Germany
+    Hello Ghana
+    Hello Greece
+    Hello Grenada
+    Hello Guatemala
+    Hello Guinea
+    Hello Guinea-Bissau
+    Hello Guyana
+    Hello Haiti
+    Hello Honduras
+    Hello Hungary
+    Hello Iceland
+    Hello India
+    Hello Indonesia
+    Hello Iran
+    Hello Iraq
+    Hello Ireland {Republic}
+    Hello Israel
+    Hello Italy
+    Hello Ivory Coast
+    Hello Jamaica
+    Hello Japan
+    Hello Jordan
+    Hello Kazakhstan
+    Hello Kenya
+    Hello Kiribati
+    Hello Korea North
+    Hello Korea South
+    Hello Kosovo
+    Hello Kuwait
+    Hello Kyrgyzstan
+    Hello Laos
+    Hello Latvia
+    Hello Lebanon
+    Hello Lesotho
+    Hello Liberia
+    Hello Libya
+    Hello Liechtenstein
+    Hello Lithuania
+    Hello Luxembourg
+    Hello Macedonia
+    Hello Madagascar
+    Hello Malawi
+    Hello Malaysia
+    Hello Maldives
+    Hello Mali
+    Hello Malta
+    Hello Marshall Islands
+    Hello Mauritania
+    Hello Mauritius
+    Hello Mexico
+    Hello Micronesia
+    Hello Moldova
+    Hello Monaco
+    Hello Mongolia
+    Hello Montenegro
+    Hello Morocco
+    Hello Mozambique
+    Hello Myanmar{Burma}
+    Hello Namibia
+    Hello Nauru
+    Hello Nepal
+    Hello Netherlands
+    Hello New Zealand
+    Hello Nicaragua
+    Hello Niger
+    Hello Nigeria
+    Hello Norway
+    Hello Oman
+    Hello Pakistan
+    Hello Palau
+    Hello Panama
+    Hello Papua New Guinea
+    Hello Paraguay
+    Hello Peru
+    Hello Philippines
+    Hello Poland
+    Hello Portugal
+    Hello Qatar
+    Hello Romania
+    Hello Russian Federation
+    Hello Rwanda
+    Hello St Kitts & Nevis
+    Hello St Lucia
+    Hello Saint Vincent & the Grenadines
+    Hello Samoa
+    Hello San Marino
+    Hello Sao Tome & Principe
+    Hello Saudi Arabia
+    Hello Senegal
+    Hello Serbia
+    Hello Seychelles
+    Hello Sierra Leone
+    Hello Singapore
+    Hello Slovakia
+    Hello Slovenia
+    Hello Solomon Islands
+    Hello Somalia
+    Hello South Africa
+    Hello South Sudan
+    Hello Spain
+    Hello Sri Lanka
+    Hello Sudan
+    Hello Suriname
+    Hello Swaziland
+    Hello Sweden
+    Hello Switzerland
+    Hello Syria
+    Hello Taiwan
+    Hello Tajikistan
+    Hello Tanzania
+    Hello Thailand
+    Hello Togo
+    Hello Tonga
+    Hello Trinidad & Tobago
+    Hello Tunisia
+    Hello Turkey
+    Hello Turkmenistan
+    Hello Tuvalu
+    Hello Uganda
+    Hello Ukraine
+    Hello United Arab Emirates
+    Hello United Kingdom
+    Hello United States
+    Hello Uruguay
+    Hello Uzbekistan
+    Hello Vanuatu
+    Hello Vatican City
+    Hello Venezuela
+    Hello Vietnam
+    Hello Yemen
+    Hello Zambia
+    Hello Zimbabwe
