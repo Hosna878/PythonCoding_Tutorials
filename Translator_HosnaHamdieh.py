@@ -1,4 +1,7 @@
-
+""" 
+This script was writen to make a translator using a GUI interface
+Developer: Hosna Hamdieh
+"""
 from tkinter import *
 from translate import Translator
 
